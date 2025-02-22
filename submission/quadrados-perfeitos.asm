@@ -2,8 +2,8 @@
 
 BEGIN	LV /2
 	
-	AD RES ; Altera a INSTR para adicionar nos lugares corretos
-	MM RES
+	AD INSTR ; Altera a INSTR para adicionar nos lugares corretos
+	MM INSTR
 
 	LD SQR
 	AD INT
@@ -25,6 +25,6 @@ END	HM /1111
 
 
 @ /0100
-	INT K =1 ; 1, 3 ...
-	SQR K =0 ; Quadrado Perfeito
+INT 	K =1 ; 1, 3 ...
+SQR	K =0 ; Quadrado Perfeito
 	
