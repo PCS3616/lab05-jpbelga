@@ -1,6 +1,6 @@
 @ /0000
 
-BEGIN	LV = 2
+BEGIN	LV /2
 	
 	AD RES ; Altera a INSTR para adicionar nos lugares corretos
 	MM RES
