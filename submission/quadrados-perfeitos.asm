@@ -1,5 +1,4 @@
 @ /0000
-
 BEGIN	LV /2
 	AD INSTR ; Altera a INSTR para adicionar nos lugares corretos
 	MM INSTR
