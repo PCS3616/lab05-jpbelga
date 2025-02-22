@@ -21,7 +21,7 @@ INSTR	K /9100 ; Save on instr INSTR + 2
 	
 	JN END
 	JP BEGIN
-END	HM /1111
+END	HM /0000
 
 
 @ /0100
