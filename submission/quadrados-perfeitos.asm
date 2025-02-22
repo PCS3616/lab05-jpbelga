@@ -1,7 +1,6 @@
 @ /0000
 
 BEGIN	LV /2
-	
 	AD INSTR ; Altera a INSTR para adicionar nos lugares corretos
 	MM INSTR
 	LD SQR
@@ -13,7 +12,6 @@ INSTR	K /9100 ; Save on instr INSTR + 2
 	MM INT
 	LV =126
 	SB INT
-	MM INT
 	JN END
 	JP BEGIN
 END	HM /0000
