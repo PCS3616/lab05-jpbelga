@@ -16,7 +16,7 @@ INSTR	K /9100 ; Save on instr INSTR + 2
 END	HM /0000
 
 
-@ /0100
+@ /0500
 INT 	K =1 ; 1, 3 ...
 SQR	K =0 ; Quadrado Perfeito
 	
