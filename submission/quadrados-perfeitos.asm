@@ -15,7 +15,7 @@ INSTR	K /9100 ; Save on instr INSTR + 2
 	AD INT
 	MM INT
 	
-	LV = 126
+	LV =126
 	SB INT
 	MM INT
 	
