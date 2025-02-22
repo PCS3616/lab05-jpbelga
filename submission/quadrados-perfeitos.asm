@@ -25,6 +25,6 @@ END	HM /1111
 
 
 @ /0100
-	INT K = 1 ; 1, 3 ...
-	SQR K = 0 ; Quadrado Perfeito
+	INT K =1 ; 1, 3 ...
+	SQR K =0 ; Quadrado Perfeito
 	
